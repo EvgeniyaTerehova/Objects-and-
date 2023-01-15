@@ -17,5 +17,7 @@ public class Test {
         System.out.print(voskresenie.getAuthor().getFullName() + " ");
         System.out.print(voskresenie.getTitle() + " ");
         System.out.println(voskresenie.getYearOfPublication());
+
+
     }
 }
